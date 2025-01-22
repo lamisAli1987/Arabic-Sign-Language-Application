@@ -1,5 +1,0 @@
-RGB Arabic Alphabets Sign Language Dataset
-
-In this work, we used a large-scale dataset of fully labeled RGB images for various static signs. This dataset consists of 7,856 images for 31 letters of the ArSL alphabet, capturing detailed representations of hand gestures. 
-
-Dataset Link: https://www.kaggle.com/datasets/muhammadalbrham/rgb-arabic-alphabets-sign-language-dataset
